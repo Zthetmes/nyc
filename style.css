@@ -435,8 +435,9 @@ input, textarea{
     width: 100%;
     min-height: 100vh;
     padding: 2rem;
-    background-color: #222;
+    background-image: url(imagenes/nyc-skyline-night-timelapse-stoc-1280x720.jpg);
     overflow: hidden;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
