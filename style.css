@@ -301,7 +301,7 @@ section {
 .texto-metrocard{
     width: 50%;
 }
-.texto-metrocard, .texto-hoteles ,.texto-atracciones{
+.texto-metrocard, .texto-hoteles ,.texto-atracciones, .texto-atracciones-top{
     padding: 1.5rem;
     font-size: 1.7rem;
     font-family: 'Oxygen', sans-serif;
